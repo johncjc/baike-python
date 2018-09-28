@@ -1,2 +1,4 @@
-# baike-python
-qiku
+#baike-python
+百度百科名词解释爬取
+
+未上传==，目前还没有完成反爬的功能。
